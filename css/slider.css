@@ -1,0 +1,66 @@
+#slider{
+	height: 94.5%;
+	width: 100%;
+	background-image: url("../images/hand-coffee.jpg");
+	margin: 0px;
+	background-size: cover;
+	background-attachment: fixed;
+
+
+
+}
+
+#logo{
+	height: 80px;
+	width: 80px;
+	background-image: url("../images/logo.png");
+	background-size: cover;
+	background-position: center;
+}
+
+#title{
+
+	text-align: center;
+	margin-top: 300px;
+	color: white;
+	font-weight: 140;
+	font-size: 60px;
+
+
+}
+
+#slogan{
+
+	text-align: center;
+	color: white;
+	font-weight: 200px;
+	font-size: 20px;
+	position: relative;
+	text-transform: uppercase;
+
+
+
+}
+
+
+
+
+#scroll{
+
+	margin-left: 50%;
+	height: 40px;
+	width: 40px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	background-image: url("../images/scroll-icon-hover.png");
+	background-size: cover;
+}
+
+#scroll:hover{
+
+
+	background-image: url("../images/scroll-icon.png");
+
+}
